@@ -8,6 +8,6 @@
 5. Download the song using the video ID through the Youtube-MP3-Downloader
 
 # To Do
-[ ] Error Handling
-[ ] Fix Youtube-MP3-Downloader Bug
-[ ] Create Global CLI
+- [ ] Error Handling
+- [ ] Fix Youtube-MP3-Downloader Bug
+- [ ] Create Global CLI
